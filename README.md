@@ -22,7 +22,7 @@ Adicione a tag "**challengeonealurageekbr**"
 ## Como realizar a entrega final do meu projeto?
 ---
 
-4) Preenche o formulário de entrega com o *link do projeto publicado com GitHub Pages*
+4) Preenche o formulário de entrega com o **link do projeto publicado com GitHub Pages**
 
 🔹 [Link para o formulário](https://lp.alura.com.br/alura-latam-lp-entrega-de-challenge-one)
 
