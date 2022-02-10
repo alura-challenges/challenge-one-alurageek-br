@@ -8,7 +8,7 @@
 #### Visite a página do Challenge [Clicando aqui!](https://www.alura.com.br/challenges/__oracle-one-front-end/) 📃
 ---
 
-## Como listar o meu projeto na vitrine da imersão?
+## Como listar o meu projeto neste Challenge?
 ---
 
 1) Publique o projeto no GitHub
