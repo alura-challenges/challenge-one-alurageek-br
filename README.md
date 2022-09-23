@@ -16,11 +16,13 @@
 
 1) Publique o projeto no GitHub
 2) Publica no GitHub Pages: [Como publicar meu projeto com GitHub Pages?](https://docs.github.com/pt/pages/getting-started-with-github-pages/creating-a-github-pages-site) 
-3) Utilize o tópico **challengeonealurageekbr**
+3) Utilize o tópico:
 
-
-Vá na aba "Sobre" ou "About" do seu projeto no menu lateral que fica na esquerda dentro do repositório no GitHub
-Adicione a tag "**challengeonealurageekbr**"
+     -Turma 2: **challengeonealurageekbr2**
+     
+     -Turma 3: **challengeonealurageekbr3**
+     
+Vá na aba "Sobre" ou "About" do seu projeto no menu lateral que fica na esquerda dentro do repositório no GitHub Adicione a tag "**challengeonealurageekbr2**" ou "**challengeonealurageekbr3**" dependendo de qual turma você pertence.
 
 ![gif-vitrine](https://user-images.githubusercontent.com/91544872/153601047-62aee6cb-e3cf-42b3-92c3-7130c996113f.gif)
 
@@ -28,9 +30,11 @@ Adicione a tag "**challengeonealurageekbr**"
 ---
 
 4) Preenche o formulário de entrega com o **link do projeto publicado com GitHub Pages**
+
 🔹 [Link para o formulário](https://lp.alura.com.br/alura-latam-lp-entrega-de-challenge-one)
 
-![formulario-entrega](https://user-images.githubusercontent.com/91544872/153610784-525ff005-d667-43f1-adcc-155b5274d87b.png)
+![screencapture-lp-alura-br-alura-latam-lp-entrega-de-challenge-one-2022-09-21-22_14_19](https://user-images.githubusercontent.com/101413385/191989837-25924cff-b52c-4986-a0ac-3b9c4cc72743.png)
+
 
 5) Acesse seu e-mail e terá a sua Badge Exclusiva do Desafio 🏆
 6) Não se esqueça de publicar um link ou vídeo do seu projeto no Linkedin! 🏁
