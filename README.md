@@ -17,12 +17,10 @@
 1) Publique o projeto no GitHub
 2) Publica no GitHub Pages: [Como publicar meu projeto com GitHub Pages?](https://docs.github.com/pt/pages/getting-started-with-github-pages/creating-a-github-pages-site) 
 3) Utilize o tópico:
-
-     -Turma 3: **challengeonealurageekbr3**
-     
+ 
      -Turma 4: **challengeonealurageekbr4**
      
-Vá na aba "Sobre" ou "About" do seu projeto no menu lateral que fica na esquerda dentro do repositório no GitHub Adicione a tag "**challengeonealurageekbr3**" ou "**challengeonealurageekbr4**" dependendo de qual turma você pertence.
+Vá na aba "Sobre" ou "About" do seu projeto no menu lateral que fica na esquerda dentro do repositório no GitHub e adicione a tag "**challengeonealurageekbr4**".
 
 ![gif-vitrine](https://user-images.githubusercontent.com/91544872/153601047-62aee6cb-e3cf-42b3-92c3-7130c996113f.gif)
 
@@ -31,7 +29,7 @@ Vá na aba "Sobre" ou "About" do seu projeto no menu lateral que fica na esquerd
 
 4) Preenche o formulário de entrega com o **link do projeto publicado com GitHub Pages**
 
-🔹 [Link para o formulário](https://lp.alura.com.br/alura-latam-entrega-challenge-one-portugues)
+🔹 [Link para o formulário](https://lp.alura.com.br/alura-latam-entrega-challenge-one-portugues-front-end)
 
 ![image](https://user-images.githubusercontent.com/92184087/208179699-a9fc5b9e-c9b5-4dab-a711-43ddfbcd00d0.png)
 
